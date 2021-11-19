@@ -1,0 +1,8 @@
+D:\git\behaviac\tools\designer\out\PluginBehaviacJson.dll
+D:\git\behaviac\tools\designer\out\PluginBehaviacJson.pdb
+D:\git\behaviac\tools\designer\Plugins\PluginBehaviacJson\obj\Debug\PluginBehaviacJson.csproj.AssemblyReference.cache
+D:\git\behaviac\tools\designer\Plugins\PluginBehaviacJson\obj\Debug\PluginBehaviacJson.Properties.Resources.resources
+D:\git\behaviac\tools\designer\Plugins\PluginBehaviacJson\obj\Debug\PluginBehaviacJson.csproj.GenerateResource.cache
+D:\git\behaviac\tools\designer\Plugins\PluginBehaviacJson\obj\Debug\PluginBehaviacJson.csproj.CoreCompileInputs.cache
+D:\git\behaviac\tools\designer\Plugins\PluginBehaviacJson\obj\Debug\PluginBehaviacJson.dll
+D:\git\behaviac\tools\designer\Plugins\PluginBehaviacJson\obj\Debug\PluginBehaviacJson.pdb

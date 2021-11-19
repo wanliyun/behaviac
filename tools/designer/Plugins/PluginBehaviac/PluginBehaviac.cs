@@ -61,7 +61,7 @@ namespace PluginBehaviac
 
             // register all the exporters
             //xporters.Add(new ExporterInfo(typeof(Behaviac.Design.Exporters.ExporterXml), "xml", "Xml", true));
-            Exporters.Add(new ExporterInfo(typeof(Behaviac.Design.Exporters.ExporterBson), "bson", "Bson", true));
+            //Exporters.Add(new ExporterInfo(typeof(Behaviac.Design.Exporters.ExporterBson), "bson", "Bson", true));
             //Exporters.Add(new ExporterInfo(typeof(PluginBehaviac.Exporters.ExporterCpp), "cpp", "C++", true, true));
            // Exporters.Add(new ExporterInfo(typeof(PluginBehaviac.Exporters.ExporterCs), "cs", "C#", true, true));
 

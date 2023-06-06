@@ -1,6 +1,8 @@
-/tools/designer/Plugins/PluginBehaviacJson/obj
-/tools/designer/BehaviacDesigner/obj
-/tools/designer/BehaviacDesignerBase/obj
-/tools/designer/out
-/tools/designer/Plugins/PluginBehaviac/obj
-obj
+# Generated files
+build/cmake_binary/**
+lib/**
+**/bin/
+**/obj/
+**/out/**
+!**/out/config.xml
+*.suo
